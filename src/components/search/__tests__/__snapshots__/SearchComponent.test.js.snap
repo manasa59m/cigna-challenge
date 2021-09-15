@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SearchComponent should render without crash 1`] = `
+<div
+  className="search-component"
+>
+  <label
+    className="search-label"
+    htmlFor="searchId"
+  >
+    Search
+  </label>
+  <input
+    className="search-input"
+    data-testid="searchId"
+    id="searchId"
+    placeholder="Enter here to search"
+    type="search"
+  />
+</div>
+`;
